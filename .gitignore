@@ -1,0 +1,3 @@
+certs/*.pem
+certs/*.csr
+.DS_Store
